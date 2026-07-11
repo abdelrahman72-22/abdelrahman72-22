@@ -20,6 +20,3 @@ This website documents my learning journey through technical notes, research wri
 
 https://github.com/abdelrahman72-22
 
----
-
-> This repository powers the SilentRoot website, built with Docusaurus.
