@@ -21,7 +21,6 @@ I'm currently documenting my learning journey, technical notes, and research pro
 - Ghidra
 - IDA Free
 - x64dbg
-- Volatility 3
 - Wireshark
 ## Featured Projects
 
