@@ -28,5 +28,3 @@ I'm currently documenting my learning journey, technical notes, and research pro
 - Windows Internals Notes
 - Malware Development
 - Malware Analysis
-- DFIR Reports
-- CTI Reports
