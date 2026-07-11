@@ -1,22 +1,32 @@
-Hi, I'm Abdelrahman 👋
+# Hi, I'm Abdelrahman 
 
-Computer Science Student
+Cybersecurity Student | Windows Internals | Malware Research
+## About
 
-Interests:
-• Windows Internals
-• Malware Analysis
-• Malware Development
-• DFIR
-• CTI
+I'm a Computer Science student passionate about Windows Internals, Malware Analysis, Malware Development, DFIR, and Cyber Threat Intelligence.
 
-Currently Learning:
-• Windows API
-• Windows Internals
+I'm currently documenting my learning journey, technical notes, and research projects in cybersecurity.
+## Currently Learning
 
-Featured Projects:
-• DFIR Reports
-• CTI Reports
-• University Projects
+- Windows API
+- Windows Internals
+- Malware Development
+- Reverse Engineering
+## Skills
 
-Website:
-Coming Soon...
+- C++
+- Python
+- WinAPI
+- Windows Internals
+- Ghidra
+- IDA Free
+- x64dbg
+- Volatility 3
+- Wireshark
+## Featured Projects
+
+- Windows Internals Notes
+- Malware Development
+- Malware Analysis
+- DFIR Reports
+- CTI Reports
