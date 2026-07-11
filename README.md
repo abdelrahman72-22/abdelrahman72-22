@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Abdelrahman 👋
 
-<!--
-**abdelrahman72-22/abdelrahman72-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+Interests:
+• Windows Internals
+• Malware Analysis
+• Malware Development
+• DFIR
+• CTI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+• Windows API
+• Windows Internals
+
+Featured Projects:
+• DFIR Reports
+• CTI Reports
+• University Projects
+
+Website:
+Coming Soon...
